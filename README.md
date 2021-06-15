@@ -8,7 +8,7 @@ For non-fractionating physical processes, N fluxes are calculated as a concentra
   <img src="https://user-images.githubusercontent.com/47376014/122094595-57879500-cdda-11eb-9b0f-be88ccf26d6b.PNG" width="400">
 </p>
 
-### The model is sensitve to the prescirbed zooplankton maximum grazing rate, gmax
+### The model is sensitve to the prescribed zooplankton maximum grazing rate, gmax
 1. With maximum grazing rate, gmax = 0.6 /day, the model reaches a steady state
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/47376014/122096498-a3d3d480-cddc-11eb-908e-c9ef121eb255.png" width="400"> 
